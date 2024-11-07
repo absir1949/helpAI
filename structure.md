@@ -1,3 +1,13 @@
+<!--
+ * @Author: absir1949 5lvt@sina.com
+ * @Date: 2024-11-07 12:49:59
+ * @LastEditors: absir1949 5lvt@sina.com
+ * @LastEditTime: 2024-11-07 15:30:49
+ * @FilePath: /AiLive/helpAi/structure.md
+ * @Description: 
+ * 
+ * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
+-->
 helpAi/
 ├── organization/           # 组织规范文件夹
 │   ├── architecture.md    # 整体架构设计

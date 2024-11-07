@@ -2,36 +2,44 @@
  * @Author: absir1949 5lvt@sina.com
  * @Date: 2024-11-07 13:27:54
  * @LastEditors: absir1949 5lvt@sina.com
- * @LastEditTime: 2024-11-07 14:51:58
+ * @LastEditTime: 2024-11-07 15:15:09
  * @FilePath: /AiLive/helpAi/experience/general.md
  * @Description: 
  * 
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
 -->
-# AI通用经验库
+# helpAi通用经验库
 
 ## 一、时间线索引
 
 ### 2024年
 #### Q1
 ##### 3月
-- 主题：AI协作体系建立
+- 主题：AI协作系统设计最佳实践
 - 类型：架构设计
-- 标签：#架构设计 #协作模式 #最佳实践
+- 标签：#架构设计 #最佳实践 #经验管理
 - 关联：
-  * 规范：organization.md, ai_general.md
-  * 经验：无
+  * 规范：organization/architecture.md
+  * 经验：project.md
 - 状态：已验证
 - 内容：
-  * 建立了完整的AI协作体系
-  * 设计了规范和经验的分离
-  * 建立了经验反哺机制
-  * 形成了可持续进化模式
-- 价值：
-  * 提供了AI能力进化的框架
-  * 建立了知识积累的机制
-  * 确保了服务质量的提升
-  * 支持了持续优化改进
+  1. 分层设计原则：
+     - 基本法/执行法/判例法的分层
+     - 职责边界清晰
+     - 关系定义明确
+     - 便于维护和进化
+
+  2. 经验管理原则：
+     - 实时性优先于完整性
+     - 多维度组织便于检索
+     - 按会话组织更符合实际
+     - 支持持续进化和优化
+
+  3. 系统设计原则：
+     - 架构清晰，职责明确
+     - 机制完整，相互支撑
+     - 实用性强，易于执行
+     - 支持进化，持续优化
 
 ## 二、标签索引
 ### 架构设计
